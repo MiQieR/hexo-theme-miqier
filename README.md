@@ -4,7 +4,7 @@
 
 参考文档: 📖 [anzhiyu Docs](https://docs.anheyu.com/)
 
-一款基于[hexo-theme-anzhiyu](https://github.com/jerryc127/hexo-theme-anzhiyu)修改的主題
+一款基于[hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)修改的主題
 
 # hexo-theme-miqier
 

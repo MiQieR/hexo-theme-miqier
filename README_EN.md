@@ -4,7 +4,7 @@ Preview: 👍 [MiQieR](https://miqier.github.io/)
 
 Reference Manual: 📖 [anzhiyu Docs](https://docs.anheyu.com/)
 
-A theme based on [hexo-theme-anzhiyu](https://github.com/jerryc127/hexo-theme-anzhiyu) modification
+A theme based on [hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) modification
 
 # hexo-theme-miqier
 
